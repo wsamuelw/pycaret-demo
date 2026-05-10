@@ -1,4 +1,4 @@
-# PyCaret Demo
+# PyCaret
 
 Predicting employee attrition using PyCaret — comparing 10+ models in one line of code, then tuning and interpreting the best one.
 
