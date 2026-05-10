@@ -2,7 +2,7 @@
 
 Predicting employee attrition using PyCaret — comparing 10+ models in one line of code, then tuning and interpreting the best one.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wsamuelw/pycaret-demo/blob/main/Pycaret_Demo.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wsamuelw/pycaret/blob/main/Pycaret_Demo.ipynb)
 
 ## Problem
 
@@ -52,8 +52,8 @@ Click the badge above — no setup required.
 
 ```bash
 pip install pycaret[full] shap
-git clone https://github.com/wsamuelw/pycaret-demo.git
-cd pycaret-demo
+git clone https://github.com/wsamuelw/pycaret.git
+cd pycaret
 jupyter notebook Pycaret_Demo.ipynb
 ```
 
